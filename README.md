@@ -26,10 +26,14 @@
 
 # geometry
 
+## obj
+For an obj file to be textured, the texture has to be present in the directory.
+So to import and visualize the object, please include the matching texture from
+the texture directory in our blender-projects repository.
+
 ## Summary
 
-The geometry for our project.
-
+The geometry for our project. 
 
 
 ## License
