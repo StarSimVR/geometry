@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/makemake.obj-48d1d8101b759e3f45d796a7a2076c16.mesh"
+
+[deps]
+
+files=[ "res://.import/makemake.obj-48d1d8101b759e3f45d796a7a2076c16.mesh" ]
+
+source_file="res://geometry/obj/makemake.obj"
+dest_files=[ "res://.import/makemake.obj-48d1d8101b759e3f45d796a7a2076c16.mesh", "res://.import/makemake.obj-48d1d8101b759e3f45d796a7a2076c16.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
