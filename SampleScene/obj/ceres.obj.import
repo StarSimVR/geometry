@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/ceres.obj-597b276bfae5ac9656c283f03960e1aa.mesh"
+path="res://.import/ceres.obj-3a6ac28ad66464a041b5b59d2a482bd2.mesh"
 
 [deps]
 
-files=[ "res://.import/ceres.obj-597b276bfae5ac9656c283f03960e1aa.mesh" ]
+files=[ "res://.import/ceres.obj-3a6ac28ad66464a041b5b59d2a482bd2.mesh" ]
 
-source_file="res://geometry/obj/ceres.obj"
-dest_files=[ "res://.import/ceres.obj-597b276bfae5ac9656c283f03960e1aa.mesh", "res://.import/ceres.obj-597b276bfae5ac9656c283f03960e1aa.mesh" ]
+source_file="res://geometry/SampleScene/obj/ceres.obj"
+dest_files=[ "res://.import/ceres.obj-3a6ac28ad66464a041b5b59d2a482bd2.mesh", "res://.import/ceres.obj-3a6ac28ad66464a041b5b59d2a482bd2.mesh" ]
 
 [params]
 

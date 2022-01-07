@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/jupiter.obj-17d401567f2febf892fcceb5bdc84d56.mesh"
+path="res://.import/jupiter.obj-d5a845888c9eceaedf50ae0ba4232c6f.mesh"
 
 [deps]
 
-files=[ "res://.import/jupiter.obj-17d401567f2febf892fcceb5bdc84d56.mesh" ]
+files=[ "res://.import/jupiter.obj-d5a845888c9eceaedf50ae0ba4232c6f.mesh" ]
 
-source_file="res://geometry/obj/jupiter.obj"
-dest_files=[ "res://.import/jupiter.obj-17d401567f2febf892fcceb5bdc84d56.mesh", "res://.import/jupiter.obj-17d401567f2febf892fcceb5bdc84d56.mesh" ]
+source_file="res://geometry/SampleScene/obj/jupiter.obj"
+dest_files=[ "res://.import/jupiter.obj-d5a845888c9eceaedf50ae0ba4232c6f.mesh", "res://.import/jupiter.obj-d5a845888c9eceaedf50ae0ba4232c6f.mesh" ]
 
 [params]
 

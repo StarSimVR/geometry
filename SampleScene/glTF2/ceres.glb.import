@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ceres.glb-32c9b522d82a747612f200822de0827e.scn"
+path="res://.import/ceres.glb-8095212184dd321c80eb696173dc2a6e.scn"
 
 [deps]
 
-source_file="res://geometry/gitf20/ceres.glb"
-dest_files=[ "res://.import/ceres.glb-32c9b522d82a747612f200822de0827e.scn" ]
+source_file="res://geometry/SampleScene/glTF2/ceres.glb"
+dest_files=[ "res://.import/ceres.glb-8095212184dd321c80eb696173dc2a6e.scn" ]
 
 [params]
 

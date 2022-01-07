@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Jupiter.glb-c6900a1d459d2ab68220ad2ac4c00fe5.scn"
+path="res://.import/Jupiter.glb-4b74011f6764e68347ab6b33dc9ccf97.scn"
 
 [deps]
 
-source_file="res://geometry/gitf20/Jupiter.glb"
-dest_files=[ "res://.import/Jupiter.glb-c6900a1d459d2ab68220ad2ac4c00fe5.scn" ]
+source_file="res://geometry/SampleScene/glTF2/Jupiter.glb"
+dest_files=[ "res://.import/Jupiter.glb-4b74011f6764e68347ab6b33dc9ccf97.scn" ]
 
 [params]
 

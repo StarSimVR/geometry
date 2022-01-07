@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/eris.glb-a4ef70900a3b1920b5cb845b41e5033b.scn"
+path="res://.import/eris.glb-2b8dc105eb967f8e9b796c3305f0fd99.scn"
 
 [deps]
 
-source_file="res://geometry/gitf20/eris.glb"
-dest_files=[ "res://.import/eris.glb-a4ef70900a3b1920b5cb845b41e5033b.scn" ]
+source_file="res://geometry/SampleScene/glTF2/eris.glb"
+dest_files=[ "res://.import/eris.glb-2b8dc105eb967f8e9b796c3305f0fd99.scn" ]
 
 [params]
 

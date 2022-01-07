@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/makemake.glb-50ecbd7f2a4aa4e0ee42571680b5ffe3.scn"
+path="res://.import/makemake.glb-7c3a708cbfae6156efffe7e5294f848c.scn"
 
 [deps]
 
-source_file="res://geometry/gitf20/makemake.glb"
-dest_files=[ "res://.import/makemake.glb-50ecbd7f2a4aa4e0ee42571680b5ffe3.scn" ]
+source_file="res://geometry/SampleScene/glTF2/makemake.glb"
+dest_files=[ "res://.import/makemake.glb-7c3a708cbfae6156efffe7e5294f848c.scn" ]
 
 [params]
 

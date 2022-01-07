@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/eris.obj-a42447a8b05a37e8b45b520e5f495010.mesh"
+path="res://.import/eris.obj-59b3f17aa8b6921962733d96bd9748e3.mesh"
 
 [deps]
 
-files=[ "res://.import/eris.obj-a42447a8b05a37e8b45b520e5f495010.mesh" ]
+files=[ "res://.import/eris.obj-59b3f17aa8b6921962733d96bd9748e3.mesh" ]
 
-source_file="res://geometry/obj/eris.obj"
-dest_files=[ "res://.import/eris.obj-a42447a8b05a37e8b45b520e5f495010.mesh", "res://.import/eris.obj-a42447a8b05a37e8b45b520e5f495010.mesh" ]
+source_file="res://geometry/SampleScene/obj/eris.obj"
+dest_files=[ "res://.import/eris.obj-59b3f17aa8b6921962733d96bd9748e3.mesh", "res://.import/eris.obj-59b3f17aa8b6921962733d96bd9748e3.mesh" ]
 
 [params]
 

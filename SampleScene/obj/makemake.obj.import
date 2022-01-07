@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/makemake.obj-48d1d8101b759e3f45d796a7a2076c16.mesh"
+path="res://.import/makemake.obj-bb19587b2c4a15c1380a3ffb01419422.mesh"
 
 [deps]
 
-files=[ "res://.import/makemake.obj-48d1d8101b759e3f45d796a7a2076c16.mesh" ]
+files=[ "res://.import/makemake.obj-bb19587b2c4a15c1380a3ffb01419422.mesh" ]
 
-source_file="res://geometry/obj/makemake.obj"
-dest_files=[ "res://.import/makemake.obj-48d1d8101b759e3f45d796a7a2076c16.mesh", "res://.import/makemake.obj-48d1d8101b759e3f45d796a7a2076c16.mesh" ]
+source_file="res://geometry/SampleScene/obj/makemake.obj"
+dest_files=[ "res://.import/makemake.obj-bb19587b2c4a15c1380a3ffb01419422.mesh", "res://.import/makemake.obj-bb19587b2c4a15c1380a3ffb01419422.mesh" ]
 
 [params]
 
