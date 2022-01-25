@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/vr_controller_vive_1_5.obj-cc7cf5a6ac53e7480a6b90a65e9abaf6.mesh"
+
+[deps]
+
+files=[ "res://.import/vr_controller_vive_1_5.obj-cc7cf5a6ac53e7480a6b90a65e9abaf6.mesh" ]
+
+source_file="res://geometry/Controller/vr_controller_vive_1_5.obj"
+dest_files=[ "res://.import/vr_controller_vive_1_5.obj-cc7cf5a6ac53e7480a6b90a65e9abaf6.mesh", "res://.import/vr_controller_vive_1_5.obj-cc7cf5a6ac53e7480a6b90a65e9abaf6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
